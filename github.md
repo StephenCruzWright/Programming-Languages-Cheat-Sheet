@@ -1,4 +1,4 @@
-read first and if stillconfused try [this video](https://www.youtube.com/watch?v=Ala6PHlYjmw).
+read first and if still confused try [this video](https://www.youtube.com/watch?v=Ala6PHlYjmw).
 
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
@@ -48,4 +48,5 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
 
