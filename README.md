@@ -2,9 +2,15 @@
 
 ![Banner](assets/banner.png)
 
-![GitHub Created At](https://img.shields.io/github/created-at/StephenCruzWright/Programming-Languages-Cheat-Sheet?style=flat-square)
-![GitHub Contributors](https://img.shields.io/github/contributors/StephenCruzWright/Programming-Languages-Cheat-Sheet?style=flat-square)
-[![License](https://img.shields.io/github/license/StephenCruzWright/Programming-Languages-Cheat-Sheet?style=flat-square)](LICENSE)
+<p align="center">
+  <a href="https://github.com/StephenCruzWright/simona-barboiu/actions/workflows?branch=main">
+    <img src="https://img.shields.io/github/actions/workflow/status/StephenCruzWright/simona-barboiu/npm-publish-github-packages.yml?branch=main&style=for-the-badge" alt="CI status">
+  </a>
+  <a href="https://github.com/StephenCruzWright/simona-barboiu/releases"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/StephenCruzWright/simona-barboiu/Production?branch=main&style=for-the-badge"></a>
+  <a href=""><img src="https://img.shields.io/github/created-at/StephenCruzWright/simona-barboiu?label=Creation&logo=github&logoColor=white&color=5865F2&style=for-the-badge" alt="GitHub Created At"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/StephenCruzWright/simona-barboiu?branch=main&style=for-the-badge" alt="License"></a>
+  <a href=""><img src="https://img.shields.io/github/commit-activity/w/StephenCruzWright/simona-barboiu?branch=main&style=for-the-badge" alt="GitHub commit activity"></a>
+</p>
 
 Short one-line description of the project.
 
